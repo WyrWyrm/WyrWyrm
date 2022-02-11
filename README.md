@@ -1,4 +1,4 @@
-# **Hi!**
+# **Hi! 👋**
 Hey! I'm J. Bourque AKA @WyrWyrm. I'm an Unreal Engine enthusiast, generalist and the project lead of [Reach of the River](https://reachoftheriver.com) (website WIP).
 
 ## **Skill Examples**
