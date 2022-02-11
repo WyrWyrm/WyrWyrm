@@ -1,7 +1,5 @@
+# **Hi!**
 Hey! I'm J. Bourque AKA @WyrWyrm. I'm an Unreal Engine enthusiast, generalist and the project lead of [Reach of the River](https://reachoftheriver.com) (website WIP).
-
-
-
 
 ## **Skill Examples**
 #### Legend
@@ -37,6 +35,7 @@ Hey! I'm J. Bourque AKA @WyrWyrm. I'm an Unreal Engine enthusiast, generalist an
 - Slash commands and/or custom prefix
 - Reaction roles / role self-assignment
 - Fun games
+- Starboard / community feature system
 - Ticket systems / Mod contact / user reports / etc
 - Auto moderation and logging
 - Playfab integration
@@ -54,6 +53,7 @@ Hey! I'm J. Bourque AKA @WyrWyrm. I'm an Unreal Engine enthusiast, generalist an
 ### Misc
 - Photoshop ★★★★★
 - Blender, Maya ★★☆☆☆
+- Unity ★★☆☆☆
 - OGRE ★★★☆☆
 - Swift ★☆☆☆☆
 - Android Studio ★☆☆☆☆
