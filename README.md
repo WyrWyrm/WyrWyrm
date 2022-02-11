@@ -19,15 +19,21 @@ Hey! I'm J. Bourque AKA @WyrWyrm. I'm an Unreal Engine enthusiast, generalist an
 - Advanced PBR Materials
 - Playfab integration
 - Multiplayer Networking (intermediate)
+- Online chats (multi-channel, multi-tab, chat options)
 - Complex character customization systems
 - Questing, achievements, objectives, etc
 - Gameplay tutorial systems
 - Game client settings (Audio, accessibility, graphics, video, controls & keybindings, custom gameplay settings)
 - More on my portfolio ! -insert link- (WIP)
+
 #### Learning:
 - Slate
 - GAS
 - XR Development
+
+#### Want to learn:
+- Steam integration (simply haven't had a use for it yet!)
+- More multiplayer networking! (I'm always looking to improve and optimize my networking code)
 
 ### Discord Bots with js ★★★☆☆
 ###### (Actively learning and having a blast)
@@ -48,6 +54,7 @@ Hey! I'm J. Bourque AKA @WyrWyrm. I'm an Unreal Engine enthusiast, generalist an
 ### Unity ★★☆☆☆
 ###### (A little rusty - it's been a few years!)
 - Specialize in 2D
+- Playfab integration
 - Some examples of silly downtime projects on my portfolio -insert link-
 
 ### Misc
